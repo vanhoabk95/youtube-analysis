@@ -1,0 +1,12 @@
+node_modules/
+.pnpm-store/
+.pnpm-store/
+dist/
+release/
+.venv/
+worker-dist/
+worker-build/
+*.spec
+__pycache__/
+*.pyc
+.DS_Store
